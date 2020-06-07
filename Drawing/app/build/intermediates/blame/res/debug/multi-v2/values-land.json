@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/rafalrytel/Documents/GitHub/androidApps/Drawing/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/rafalrytel/.gradle/caches/transforms-2/files-2.1/c0f5718e70ad05946ea9dfa9c7b3e6de/ambilwarna-2.0.1/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "166,219",
+                        "endColumns": "52,51",
+                        "endOffsets": "214,266"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "264,317",
+                        "endColumns": "52,51",
+                        "endOffsets": "312,364"
+                    }
+                },
+                {
+                    "source": "/Users/rafalrytel/.gradle/caches/transforms-2/files-2.1/0c91d46fdd28334f30b1556655513aca/appcompat-v7-28.0.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}
